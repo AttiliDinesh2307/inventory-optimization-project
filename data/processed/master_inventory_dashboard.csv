@@ -1,0 +1,11 @@
+Product,Category,Warehouse,Supplier,Units_Sold,Current_Stock,Unit_Price,Cost_Price,Lead_Time_Days,Annual_Demand,Annual_Revenue,Annual_Profit,Reorder_Point,Safety_Stock,Final_Reorder_Point,Inventory_Status,EOQ,Inventory_Value,Days_of_Stock
+Headphones,Accessories,Chennai,Prime Supply Co,58.14,271.53,3000.0,2200.0,4.0,21221.0,63663000.0,16976800.0,233.0,116.0,349.0,Low Stock,220.0,597366.0,4.7
+Keyboard,Accessories,Bengaluru,Global Electronics,41.98,287.41,1500.0,1000.0,3.0,15323.0,22984500.0,7661500.0,126.0,84.0,210.0,Normal,277.0,287410.0,6.8
+Laptop,Electronics,Chennai,Prime Supply Co,16.19,288.59,65000.0,52000.0,7.0,5909.0,384085000.0,76817000.0,113.0,32.0,145.0,Normal,24.0,15006680.0,17.8
+Monitor,Electronics,Bengaluru,Global Electronics,20.74,283.61,12000.0,9000.0,5.0,7570.0,90840000.0,22710000.0,104.0,41.0,145.0,Normal,65.0,2552490.0,13.7
+Mouse,Accessories,Delhi,Prime Supply Co,73.03,299.8,800.0,500.0,2.0,26656.0,21324800.0,7996800.0,146.0,146.0,292.0,Normal,516.0,149900.0,4.1
+Printer,Office,Bengaluru,Global Electronics,8.98,286.04,18000.0,14500.0,8.0,3278.0,59004000.0,11473000.0,72.0,18.0,90.0,Overstock,34.0,4147580.0,31.9
+Router,Networking,Hyderabad,Rapid Logistics,29.11,296.41,4500.0,3200.0,4.0,10625.0,47812500.0,13812500.0,116.0,58.0,174.0,Normal,129.0,948512.0,10.2
+Smartphone,Electronics,Chennai,Rapid Logistics,51.99,286.37,35000.0,28000.0,5.0,18976.0,664160000.0,132832000.0,260.0,104.0,364.0,Low Stock,58.0,8018360.0,5.5
+Tablet,Electronics,Chennai,Smart Distribution,26.03,281.41,25000.0,20000.0,6.0,9501.0,237525000.0,47505000.0,156.0,52.0,208.0,Normal,49.0,5628200.0,10.8
+Webcam,Accessories,Bengaluru,Global Electronics,25.44,317.1,2500.0,1800.0,3.0,9286.0,23215000.0,6500200.0,76.0,51.0,127.0,Overstock,161.0,570780.0,12.5

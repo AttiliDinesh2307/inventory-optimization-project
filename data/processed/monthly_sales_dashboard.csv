@@ -1,0 +1,121 @@
+Month,Product,Category,Warehouse,Supplier,Units_Sold,Revenue,Profit,Average_Stock,Promotion_Days,Average_Lead_Time
+April,Headphones,Accessories,Bengaluru,Rapid Logistics,1738,5214000,1390400,316.0,8,4.0
+April,Keyboard,Accessories,Hyderabad,TechSource Pvt Ltd,1107,1660500,553500,298.0,2,3.0
+April,Laptop,Electronics,Chennai,Global Electronics,404,26260000,5252000,251.0,3,7.0
+April,Monitor,Electronics,Mumbai,Global Electronics,568,6816000,1704000,283.0,5,5.0
+April,Mouse,Accessories,Delhi,Rapid Logistics,1795,1436000,538500,327.0,10,2.0
+April,Printer,Office,Bengaluru,Prime Supply Co,270,4860000,945000,256.0,7,8.0
+April,Router,Networking,Delhi,Smart Distribution,770,3465000,1001000,280.0,8,4.0
+April,Smartphone,Electronics,Bengaluru,TechSource Pvt Ltd,1287,45045000,9009000,252.0,7,5.0
+April,Tablet,Electronics,Chennai,Prime Supply Co,723,18075000,3615000,231.0,7,6.0
+April,Webcam,Accessories,Hyderabad,Prime Supply Co,701,1752500,490700,351.0,5,3.0
+August,Headphones,Accessories,Hyderabad,Prime Supply Co,1751,5253000,1400800,206.0,3,4.0
+August,Keyboard,Accessories,Hyderabad,Rapid Logistics,1227,1840500,613500,229.0,6,3.0
+August,Laptop,Electronics,Bengaluru,Prime Supply Co,488,31720000,6344000,288.0,7,7.0
+August,Monitor,Electronics,Chennai,Global Electronics,689,8268000,2067000,269.0,6,5.0
+August,Mouse,Accessories,Bengaluru,TechSource Pvt Ltd,2190,1752000,657000,277.0,4,2.0
+August,Printer,Office,Delhi,Global Electronics,263,4734000,920500,296.0,7,8.0
+August,Router,Networking,Hyderabad,Prime Supply Co,860,3870000,1118000,322.0,10,4.0
+August,Smartphone,Electronics,Chennai,Global Electronics,1628,56980000,11396000,298.0,8,5.0
+August,Tablet,Electronics,Mumbai,TechSource Pvt Ltd,825,20625000,4125000,265.0,5,6.0
+August,Webcam,Accessories,Chennai,Global Electronics,838,2095000,586600,321.0,9,3.0
+December,Headphones,Accessories,Hyderabad,TechSource Pvt Ltd,2082,6246000,1665600,252.0,4,4.0
+December,Keyboard,Accessories,Mumbai,Rapid Logistics,1708,2562000,854000,338.0,4,3.0
+December,Laptop,Electronics,Delhi,Rapid Logistics,693,45045000,9009000,322.0,8,7.0
+December,Monitor,Electronics,Chennai,Smart Distribution,787,9444000,2361000,309.0,8,5.0
+December,Mouse,Accessories,Delhi,Prime Supply Co,2781,2224800,834300,310.0,6,2.0
+December,Printer,Office,Bengaluru,Rapid Logistics,315,5670000,1102500,281.0,4,8.0
+December,Router,Networking,Bengaluru,Global Electronics,1275,5737500,1657500,288.0,8,4.0
+December,Smartphone,Electronics,Chennai,Smart Distribution,2326,81410000,16282000,240.0,2,5.0
+December,Tablet,Electronics,Bengaluru,Rapid Logistics,978,24450000,4890000,291.0,1,6.0
+December,Webcam,Accessories,Bengaluru,Smart Distribution,1086,2715000,760200,381.0,4,3.0
+February,Headphones,Accessories,Bengaluru,Rapid Logistics,1394,4182000,1115200,313.0,7,4.0
+February,Keyboard,Accessories,Bengaluru,Rapid Logistics,1011,1516500,505500,293.0,8,3.0
+February,Laptop,Electronics,Bengaluru,Global Electronics,381,24765000,4953000,276.0,4,7.0
+February,Monitor,Electronics,Bengaluru,Rapid Logistics,533,6396000,1599000,300.0,4,5.0
+February,Mouse,Accessories,Chennai,Global Electronics,1883,1506400,564900,303.0,7,2.0
+February,Printer,Office,Chennai,TechSource Pvt Ltd,198,3564000,693000,335.0,4,8.0
+February,Router,Networking,Mumbai,Global Electronics,663,2983500,861900,242.0,5,4.0
+February,Smartphone,Electronics,Hyderabad,Prime Supply Co,1262,44170000,8834000,292.0,5,5.0
+February,Tablet,Electronics,Bengaluru,Smart Distribution,564,14100000,2820000,343.0,5,6.0
+February,Webcam,Accessories,Delhi,Global Electronics,571,1427500,399700,334.0,6,3.0
+January,Headphones,Accessories,Delhi,Global Electronics,1436,4308000,1148800,292.0,3,4.0
+January,Keyboard,Accessories,Bengaluru,Global Electronics,1005,1507500,502500,296.0,6,3.0
+January,Laptop,Electronics,Chennai,Global Electronics,411,26715000,5343000,253.0,3,7.0
+January,Monitor,Electronics,Mumbai,Global Electronics,525,6300000,1575000,258.0,6,5.0
+January,Mouse,Accessories,Mumbai,Prime Supply Co,1844,1475200,553200,330.0,5,2.0
+January,Printer,Office,Chennai,Global Electronics,281,5058000,983500,253.0,9,8.0
+January,Router,Networking,Hyderabad,Rapid Logistics,778,3501000,1011400,280.0,9,4.0
+January,Smartphone,Electronics,Hyderabad,TechSource Pvt Ltd,1255,43925000,8785000,255.0,4,5.0
+January,Tablet,Electronics,Chennai,Global Electronics,687,17175000,3435000,299.0,7,6.0
+January,Webcam,Accessories,Chennai,Global Electronics,627,1567500,438900,317.0,8,3.0
+July,Headphones,Accessories,Chennai,Global Electronics,1564,4692000,1251200,290.0,2,4.0
+July,Keyboard,Accessories,Chennai,Rapid Logistics,1246,1869000,623000,259.0,5,3.0
+July,Laptop,Electronics,Delhi,Prime Supply Co,467,30355000,6071000,293.0,6,7.0
+July,Monitor,Electronics,Chennai,Global Electronics,579,6948000,1737000,310.0,9,5.0
+July,Mouse,Accessories,Hyderabad,Prime Supply Co,2155,1724000,646500,279.0,4,2.0
+July,Printer,Office,Delhi,Global Electronics,294,5292000,1029000,283.0,2,8.0
+July,Router,Networking,Bengaluru,Smart Distribution,796,3582000,1034800,365.0,7,4.0
+July,Smartphone,Electronics,Chennai,Rapid Logistics,1566,54810000,10962000,283.0,7,5.0
+July,Tablet,Electronics,Hyderabad,Global Electronics,728,18200000,3640000,248.0,4,6.0
+July,Webcam,Accessories,Mumbai,TechSource Pvt Ltd,675,1687500,472500,302.0,5,3.0
+June,Headphones,Accessories,Hyderabad,Prime Supply Co,1666,4998000,1332800,257.0,10,4.0
+June,Keyboard,Accessories,Mumbai,TechSource Pvt Ltd,1239,1858500,619500,317.0,5,3.0
+June,Laptop,Electronics,Mumbai,Smart Distribution,425,27625000,5525000,338.0,7,7.0
+June,Monitor,Electronics,Bengaluru,Prime Supply Co,503,6036000,1509000,316.0,6,5.0
+June,Mouse,Accessories,Delhi,Prime Supply Co,2002,1601600,600600,212.0,6,2.0
+June,Printer,Office,Delhi,TechSource Pvt Ltd,212,3816000,742000,332.0,4,8.0
+June,Router,Networking,Hyderabad,Rapid Logistics,848,3816000,1102400,287.0,8,4.0
+June,Smartphone,Electronics,Chennai,Prime Supply Co,1452,50820000,10164000,358.0,6,5.0
+June,Tablet,Electronics,Chennai,Prime Supply Co,754,18850000,3770000,341.0,1,6.0
+June,Webcam,Accessories,Bengaluru,Rapid Logistics,745,1862500,521500,348.0,2,3.0
+March,Headphones,Accessories,Chennai,Prime Supply Co,1653,4959000,1322400,242.0,10,4.0
+March,Keyboard,Accessories,Hyderabad,Prime Supply Co,1215,1822500,607500,241.0,9,3.0
+March,Laptop,Electronics,Delhi,Prime Supply Co,448,29120000,5824000,328.0,6,7.0
+March,Monitor,Electronics,Bengaluru,Prime Supply Co,522,6264000,1566000,303.0,5,5.0
+March,Mouse,Accessories,Hyderabad,Rapid Logistics,1979,1583200,593700,294.0,7,2.0
+March,Printer,Office,Hyderabad,Global Electronics,253,4554000,885500,262.0,6,8.0
+March,Router,Networking,Bengaluru,TechSource Pvt Ltd,835,3757500,1085500,351.0,4,4.0
+March,Smartphone,Electronics,Chennai,Smart Distribution,1489,52115000,10423000,335.0,3,5.0
+March,Tablet,Electronics,Mumbai,Prime Supply Co,650,16250000,3250000,305.0,7,6.0
+March,Webcam,Accessories,Mumbai,Prime Supply Co,646,1615000,452200,247.0,4,3.0
+May,Headphones,Accessories,Mumbai,Prime Supply Co,1615,4845000,1292000,233.0,12,4.0
+May,Keyboard,Accessories,Bengaluru,Global Electronics,1227,1840500,613500,294.0,8,3.0
+May,Laptop,Electronics,Delhi,Prime Supply Co,418,27170000,5434000,262.0,9,7.0
+May,Monitor,Electronics,Bengaluru,Rapid Logistics,577,6924000,1731000,252.0,7,5.0
+May,Mouse,Accessories,Hyderabad,Rapid Logistics,2003,1602400,600900,308.0,4,2.0
+May,Printer,Office,Delhi,Prime Supply Co,288,5184000,1008000,335.0,4,8.0
+May,Router,Networking,Chennai,Global Electronics,814,3663000,1058200,282.0,9,4.0
+May,Smartphone,Electronics,Delhi,Global Electronics,1354,47390000,9478000,274.0,7,5.0
+May,Tablet,Electronics,Chennai,Rapid Logistics,725,18125000,3625000,239.0,6,6.0
+May,Webcam,Accessories,Chennai,Rapid Logistics,695,1737500,486500,385.0,3,3.0
+November,Headphones,Accessories,Chennai,Smart Distribution,2254,6762000,1803200,346.0,4,4.0
+November,Keyboard,Accessories,Chennai,Prime Supply Co,1595,2392500,797500,289.0,5,3.0
+November,Laptop,Electronics,Chennai,Rapid Logistics,729,47385000,9477000,288.0,8,7.0
+November,Monitor,Electronics,Bengaluru,Prime Supply Co,796,9552000,2388000,243.0,4,5.0
+November,Mouse,Accessories,Bengaluru,Global Electronics,2947,2357600,884100,279.0,6,2.0
+November,Printer,Office,Chennai,Rapid Logistics,324,5832000,1134000,263.0,5,8.0
+November,Router,Networking,Hyderabad,Prime Supply Co,1104,4968000,1435200,284.0,3,4.0
+November,Smartphone,Electronics,Bengaluru,Rapid Logistics,1871,65485000,13097000,327.0,2,5.0
+November,Tablet,Electronics,Chennai,Prime Supply Co,1020,25500000,5100000,224.0,6,6.0
+November,Webcam,Accessories,Bengaluru,Rapid Logistics,1094,2735000,765800,240.0,7,3.0
+October,Headphones,Accessories,Bengaluru,Prime Supply Co,2398,7194000,1918400,299.0,8,4.0
+October,Keyboard,Accessories,Delhi,Global Electronics,1600,2400000,800000,323.0,6,3.0
+October,Laptop,Electronics,Chennai,Smart Distribution,559,36335000,7267000,286.0,3,7.0
+October,Monitor,Electronics,Hyderabad,Prime Supply Co,839,10068000,2517000,299.0,5,5.0
+October,Mouse,Accessories,Bengaluru,TechSource Pvt Ltd,2918,2334400,875400,348.0,6,2.0
+October,Printer,Office,Bengaluru,Smart Distribution,331,5958000,1158500,284.0,3,8.0
+October,Router,Networking,Hyderabad,Global Electronics,975,4387500,1267500,289.0,3,4.0
+October,Smartphone,Electronics,Mumbai,Rapid Logistics,1924,67340000,13468000,270.0,5,5.0
+October,Tablet,Electronics,Chennai,Rapid Logistics,1041,26025000,5205000,253.0,8,6.0
+October,Webcam,Accessories,Delhi,Global Electronics,980,2450000,686000,328.0,7,3.0
+September,Headphones,Accessories,Bengaluru,TechSource Pvt Ltd,1670,5010000,1336000,218.0,8,4.0
+September,Keyboard,Accessories,Bengaluru,Prime Supply Co,1141,1711500,570500,274.0,0,3.0
+September,Laptop,Electronics,Bengaluru,Rapid Logistics,485,31525000,6305000,278.0,7,7.0
+September,Monitor,Electronics,Delhi,Global Electronics,652,7824000,1956000,262.0,3,5.0
+September,Mouse,Accessories,Chennai,Global Electronics,2160,1728000,648000,329.0,7,2.0
+September,Printer,Office,Mumbai,Global Electronics,249,4482000,871500,256.0,8,8.0
+September,Router,Networking,Delhi,Global Electronics,906,4077000,1177800,280.0,6,4.0
+September,Smartphone,Electronics,Hyderabad,Smart Distribution,1562,54670000,10934000,256.0,7,5.0
+September,Tablet,Electronics,Bengaluru,Smart Distribution,806,20150000,4030000,344.0,5,6.0
+September,Webcam,Accessories,Mumbai,Smart Distribution,627,1567500,438900,250.0,3,3.0
