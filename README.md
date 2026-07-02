@@ -254,5 +254,3 @@ dashboards/Supply_Chain_Analytics_Dashboard.pbix
 **Dinesh Attili**
 
 MBA – Business Analytics & Operations
-
-GitHub: *(Add your GitHub profile link here once created)*
